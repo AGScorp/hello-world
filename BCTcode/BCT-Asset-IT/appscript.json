@@ -1,0 +1,17 @@
+{
+    "timeZone": "Asia/Bangkok",
+    "dependencies": {
+      "libraries": [{
+        "userSymbol": "BCT",
+        "libraryId": "1DiASTdPgT9yyuvd5y76xE0l4SGMtAQUVp_b1Itw7QranUpI65uLiwKW0",
+        "version": "12",
+        "developmentMode": true
+      }, {
+        "userSymbol": "BCTCENTER",
+        "libraryId": "1qQhfY29zmRuTYrFg_B2heG7BhwiqurRRBLWMdDvupGriYPLtz5v2JiWa",
+        "version": "38",
+        "developmentMode": true
+      }]
+    },
+    "exceptionLogging": "STACKDRIVER"
+  }
